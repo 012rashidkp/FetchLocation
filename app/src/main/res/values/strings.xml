@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FetchLocation</string>
+    <string name="latitudeBabel">Latitude</string>
+    <string name="longitudeBabel">Longitude</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAtMLq99xbQiP9y_YpDMMfYbDY63OQynYU</string>
+    <string name="title_activity_create_map">CreateMapActivity</string>
+</resources>

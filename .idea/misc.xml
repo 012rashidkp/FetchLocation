@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2315" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/activity_create_map.xml" value="0.536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/activity_detail_maps.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/activity_main.xml" value="0.41205053449951407" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/activity_maps.xml" value="0.536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/create_map_layout.xml" value="0.536" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/create_place.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FetchLocation/app/src/main/res/layout/places_list.xml" value="0.21979166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
